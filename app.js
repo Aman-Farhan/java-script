@@ -57,6 +57,5 @@
 // let userNum1 = prompt("enter a second number");
 
 userNum(num1 , num2);
-userNum(num1 , num2);
 //
 
